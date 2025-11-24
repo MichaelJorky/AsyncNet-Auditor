@@ -138,12 +138,6 @@ Pull request sangat diterima — mulai dari perbaikan kecil sampai fitur baru.
 
 ---
 
-## 📄 **License**
-
-MIT License – bebas digunakan untuk proyek pribadi maupun komersial.
-
----
-
 ## ⭐ **Support Project**
 
 Jika aplikasi ini membantu, dukung dengan klik **Star ⭐** di GitHub Anda.
