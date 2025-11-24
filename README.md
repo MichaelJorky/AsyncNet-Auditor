@@ -57,20 +57,6 @@ AsyncNet Auditor adalah aplikasi Windows canggih yang dirancang untuk melakukan 
 
 ---
 
-## 🛠 **Tech Stack**
-
-| Komponen            | Keterangan                 |
-| ------------------- | -------------------------- |
-| Delphi VCL          | Core Application Framework |
-| OmniThreadLibrary   | Parallel Tasks Engine      |
-| Indy's IdHTTP + SSL | HTTP/HTTPS Networking      |
-| WebView2            | Optional Web Loader        |
-| AlphaControls       | UI Skinning                |
-| Regex (TRegEx)      | Pattern Matching           |
-| WinAPI + TLHelp32   | System & Process Utils     |
-
----
-
 ## ⚡ **Cara Menggunakan**
 
 ### 1. **Import daftar target**
