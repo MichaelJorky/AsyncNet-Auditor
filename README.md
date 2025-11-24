@@ -110,7 +110,7 @@ Hasil dapat disimpan otomatis menjadi:
 
 ## 🤝 **Contributing**
 
-Pull request sangat diterima — mulai dari perbaikan kecil sampai fitur baru.
+Pull request sangat diterima mulai dari perbaikan kecil sampai fitur baru.
 
 ---
 
