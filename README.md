@@ -71,16 +71,6 @@ AsyncNet Auditor adalah aplikasi Windows canggih yang dirancang untuk melakukan 
 
 ---
 
-## 📂 **Project Modules**
-
-* `LibUnit.pas` – Core functions & thread manager
-* `RouterThread` – Worker engine untuk scan & proxy check
-* `MainForm` – UI Manager, log system, threading controller
-* `ProxyExtractor` – Auto parsing proxy dari file
-* `ResultHandler` – Parser hasil & formatter
-
----
-
 ## ⚡ **Cara Menggunakan**
 
 ### 1. **Import daftar target**
